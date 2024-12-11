@@ -1,5 +1,7 @@
 # Product Recommendation System
 ![image](https://github.com/user-attachments/assets/3648bf7f-ae33-464c-ab22-eb7e00914ab2)
+<img src="https://github.com/user-attachments/assets/3648bf7f-ae33-464c-ab22-eb7e00914ab2" alt="Product Recommendation System" width="600" height="400">
+
 
 
 ## Overview
